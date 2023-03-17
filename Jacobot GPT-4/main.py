@@ -16,9 +16,8 @@ from memory_system import ChatbotMemory
 from telegram import Update, ForceReply
 from telegram.ext import Application, CommandHandler, filters, MessageHandler, CallbackContext
 # Set up OpenAI API key and Telegram Bot token
-OPENAI_API_KEY = "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"
-TELEGRAM_BOT_TOKEN = "6015623112:AAFkw4ttYQ3DAIKaKLdsK60BdtEp8XCgJag"
-
+OPENAI_API_KEY = open("../openai_key.txt", "r").read()
+TELEGRAM_BOT_TOKEN = open("../telegram_token.txt", "r").read()
 chatbot_memory = ChatbotMemory()
 openai.api_key = OPENAI_API_KEY
 

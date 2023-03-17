@@ -5,9 +5,10 @@ import asyncio
 import logging
 from condense_chat import condense_chat
 
-TOKEN = "6015623112:AAFkw4ttYQ3DAIKaKLdsK60BdtEp8XCgJag"
 
-openai.api_key = "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"
+TOKEN = open("telegram_token.txt", "r").read()
+
+openai.api_key = open("openai_key.txt", "r").read()
 KNOWLEDGE = str("I am a chatbot named Jacobot. ")
 async def start(update, context):
     await update.message.reply_text("Hello! I am Jacobot, how can I assist you today?")

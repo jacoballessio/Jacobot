@@ -1,9 +1,9 @@
 #this is a script that uses gpt to condense a chat log. The chatlog is obtained from telegram
 import openai
 import datetime
-TOKEN = "6015623112:AAFkw4ttYQ3DAIKaKLdsK60BdtEp8XCgJag"
+TOKEN = open("telegram_token.txt", "r").read()
 
-openai.api_key = "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"
+openai.api_key = open("openai_key.txt", "r").read()
 #current time
 currTime = datetime.datetime.now()
 
