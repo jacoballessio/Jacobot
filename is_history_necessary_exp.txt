@@ -1,0 +1,32 @@
+Tristan, Hello Jacobot 
+Jacobot, no 
+Tristan, What do you know about me 
+Jacobot, yes 
+Jacob Allessio, [gave full chat history] 
+Jacobot, yes 
+Matt, [tell Jacobot to respond only when mentioned] 
+Jacobot, no 
+Jacob Allessio, [string present in message] 
+Jacobot, no 
+Tristan, Oooo? 
+Jacobot, no 
+Matt, Hi Jacobot 
+Jacobot, no 
+Matt, @Alle_Jacobot hi 
+Jacobot, no 
+Tristan, He lied 
+Jacobot, yes 
+Jacob Allessio, Liar 
+Jacobot, yes 
+Matt, [don't give full chat history] 
+Jacobot, yes 
+Jacob Allessio, [context aware] 
+Jacobot, yes 
+Matt, /stop 
+Jacobot, no 
+Jacob Allessio, Hi Jacob 
+Jacobot, no 
+Jacob Allessio, [age of universe] 
+Jacobot, no 
+Jacob Allessio, [age of Earth] 
+Jacobot, no 

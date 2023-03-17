@@ -1,0 +1,48 @@
+Tristan, Hello Jacobot 
+Jacobot, yes 
+Tristan, What do you know about me 
+Jacobot, yes 
+Jacob Allessio, [gave full chat history] 
+Jacobot, no 
+Matt, [tell Jacobot to respond only when mentioned] 
+Jacobot, no 
+Jacob Allessio, [trying to make context aware] 
+Jacobot, no 
+Tristan, [tell Jacobot to only respond when mentioned] 
+Jacobot, yes 
+Tristan, 😡😡 
+Jacobot, no 
+Jacob Allessio, [string present in message] 
+Jacobot, yes 
+Tristan, Oooo? 
+Jacobot, no 
+Matt, Hi Jacobot 
+Jacobot, yes 
+Matt, @Alle_Jacobot hi 
+Jacobot, yes 
+Tristan, He lied 
+Jacobot, no 
+Jacob Allessio, Liar 
+Jacobot, no 
+Matt, [don't give full chat history] 
+Jacobot, no 
+Jacob Allessio, [context aware] 
+Jacobot, no 
+Matt, /stop 
+Jacobot, no 
+Jacob Allessio, Hi Jacob 
+Jacobot, no 
+Jacob Allessio, [age of universe] 
+Jacobot, yes 
+Jacob Allessio, [age of Earth] 
+Jacobot, yes 
+Jacob Allessio, [biggest star] 
+Jacobot, yes 
+Jacob Allessio, [Covid start] 
+Jacobot, yes 
+Jacob Allessio, [atoms in universe] 
+Jacobot, no 
+Jacob Allessio, @Alle_Jacobot [atoms in universe] 
+Jacobot, yes 
+Jacob Allessio, [atoms in universe] 
+Jacobot, yes

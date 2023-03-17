@@ -1,0 +1,82 @@
+[
+    {
+        "role": "user",
+        "content": "4444444444444444"
+    },
+    {
+        "role": "user",
+        "content": "Hello"
+    },
+    {
+        "role": "user",
+        "content": "Hello"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "user",
+        "content": "Hello"
+    },
+    {
+        "role": "user",
+        "content": "Repeat this number back to me: 10"
+    },
+    {
+        "role": "user",
+        "content": "Repeat this number back to me: 10"
+    },
+    {
+        "role": "user",
+        "content": "I am testing your memoryu"
+    },
+    {
+        "role": "user",
+        "content": "What was the number I asked you to repeat back to me"
+    },
+    {
+        "role": "user",
+        "content": "Sweet, now remember that my cat's name is poe"
+    },
+    {
+        "role": "user",
+        "content": "perfect."
+    },
+    {
+        "role": "user",
+        "content": "What is my cats name?"
+    },
+    {
+        "role": "user",
+        "content": "How would I use pinecone to give you unlimited memory?"
+    },
+    {
+        "role": "user",
+        "content": "Sorry, I meant unlimited memory as in it is only limited by the computers storage capacity"
+    }
+]
