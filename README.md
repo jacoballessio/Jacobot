@@ -8,6 +8,5 @@ Installation instructions:
 2. Add your telegram bot token to the "telegram_token.txt" file, and your OpenAI API key to the "openai_key.txt" file.
 
 3. Run jacobot.py for GPT-3
-```python jacobot.py```
-or ""
+```python Jacobot4 main.py```
 4. Finally, test that your telegram bot works (you may need to send /start to it first)
