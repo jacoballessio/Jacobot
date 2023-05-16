@@ -12,3 +12,6 @@ Installation instructions:
 4. Finally, test that your telegram bot works (you may need to send /start to it first)
 
 Note: GPT-3.5 module is broken currently. Will be fixing in future update.
+
+# Example interaction with Jacobot:
+![Capture](https://github.com/jacoballessio/Jacobot/assets/39074704/48eb0fc1-47c9-4b63-8d80-704ebf7e142f)
