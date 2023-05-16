@@ -10,3 +10,5 @@ Installation instructions:
 3. Run Jacobot python file
 ```python Jacobot4/main.py```
 4. Finally, test that your telegram bot works (you may need to send /start to it first)
+
+Note: GPT-3.5 module is broken currently. Will be fixing in future update.
